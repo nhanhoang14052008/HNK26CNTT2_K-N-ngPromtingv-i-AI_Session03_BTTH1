@@ -13,12 +13,12 @@
 **E – Extras (Few-shot):**
 
 **Ví dụ 1:**
-- Input: "Tôi là NGUYỄN VĂN AN, ứng tuyển Backend Developer, có 2 năm kinh nghiệm Python, SQL. SĐT 0912345678, email an@gmail.com."
-- Output: `{"name":"Nguyễn Văn An","phone":"+84912345678","email":"an@gmail.com","position":"Backend Developer","experience_years":2,"skills":["Python","SQL"]}`
+- Input: "Tôi là NGUYỄN HOÀNG TRÍ NHÂN, ứng tuyển Backend Developer, có 2 năm kinh nghiệm Python, SQL. SĐT 0912345678, email nhan@gmail.com."
+- Output: `{"name":"Nguyễn Hoàng Trí Nhân","phone":"+84919982386","email":"nhan@gmail.com","position":"Backend Developer","experience_years":2,"skills":["Python","SQL"]}`
 
 **Ví dụ 2:**
-- Input: "Tôi là Trần Thị Bình, ứng tuyển Frontend Developer, có 1 năm kinh nghiệm HTML, CSS. Email binh@gmail.com."
-- Output: `{"name":"Trần Thị Bình","phone":null,"email":"binh@gmail.com","position":"Frontend Developer","experience_years":1,"skills":["HTML","CSS"]}`
+- Input: "Tôi là Trần Hoàng Long, ứng tuyển Frontend Developer, có 1 năm kinh nghiệm HTML, CSS. Email long@gmail.com."
+- Output: `{"name":"Trần Hoàng Long","phone":null,"email":"long@gmail.com","position":"Frontend Developer","experience_years":1,"skills":["HTML","CSS"]}`
 
 **Email đầu vào:** `{{email_raw}}`
 
